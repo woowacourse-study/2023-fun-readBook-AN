@@ -44,6 +44,7 @@
 책을 읽다가 토론하고 싶은 내용이 있거나 질문이 생기면 [이슈](https://github.com/woowacourse-study/2023-fun-readBook-AN/issues)에 등록해주시면 됩니다.
 
 ## 읽고 있는 책
-- [객체지향의 사실과 오해 | 역할, 책임, 협력 관점에서 본 객체지향](https://book.naver.com/bookdb/book_detail.nhn?bid=9145968) - 조영호
+- [실무에 바로 적용하는 안드로이드 프로그래밍](https://search.shopping.naver.com/book/catalog/32441508818?query=%EC%8B%A4%EB%AC%B4%EC%97%90%20%EB%B0%94%EB%A1%9C%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D&NaPm=ct%3Dlhq0b9mo%7Cci%3Dbb6271f2057016d0f743441e05df1f498d6a9fce%7Ctr%3Dboksl%7Csn%3D95694%7Chk%3Df4cec74e8f4b6a8672ccb4a505cd29a73aed0f32) - 크리스틴 마시캐노
 
 ## 다 읽은 책
+- [객체지향의 사실과 오해 | 역할, 책임, 협력 관점에서 본 객체지향](https://book.naver.com/bookdb/book_detail.nhn?bid=9145968) - 조영호
